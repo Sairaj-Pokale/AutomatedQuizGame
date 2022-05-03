@@ -4,3 +4,5 @@ A algorithm designed in C language which simulates a Quiz Game, where the diffic
 The Questions are to be put in manually in their respective difficulty.
 
 The answer key to all the questions has to be provided as well, for fact checking.
+
+A file specifically named "DATA.txt" is to be created to store names and ids of participants.
